@@ -15,7 +15,5 @@ $ npm run serve
 # serve a local version for development
 ```
 
-```bash
-$ npm run deploy
-# deploy to gh-pages!
-```
+Push the `gh-pages` branch to github.com/protozoa-nz/whakakpapa-ora
+

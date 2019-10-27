@@ -52,7 +52,7 @@
 
       <div class="columns">
         <div class="col col-1-3 installers">
-          <a href="https://github.com/protozoa-nz/whakapapa-ora/releases/download/v0.1.1/whakapapa-ora-Mac-0.1.1.dmg" class="installer macos">
+          <a href="https://github.com/protozoa-nz/whakapapa-ora/releases/download/vVERSION/whakapapa-ora-Mac-VERSION.dmg" class="installer macos">
             <h2 class="platform">macOS</h2>
             <i class="platform-icon fa fa-apple"></i>
             <p class="pseudolink">
@@ -61,7 +61,7 @@
             </p>
           </a>
 
-          <a href="https://github.com/protozoa-nz/whakapapa-ora/releases/download/v0.1.1/whakapapa-ora-Windows-0.1.1.exe" class="col col-1-3 installer windows">
+          <a href="https://github.com/protozoa-nz/whakapapa-ora/releases/download/vVERSION/whakapapa-ora-Windows-VERSION.exe" class="col col-1-3 installer windows">
             <h2 class="platform">Windows</h2>
             <i class="platform-icon fa fa-windows"></i>
             <p class="pseudolink">

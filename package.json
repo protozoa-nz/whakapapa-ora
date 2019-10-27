@@ -1,8 +1,7 @@
 {
   "name": "whakapapa-ora-site",
   "scripts": {
-    "serve": "serve public",
-    "deploy": "gh-pages -d public"
+    "serve": "serve public"
   },
   "homepage": "https://gitlab.com/ahau/whakapapa-ora#readme",
   "devDependencies": {

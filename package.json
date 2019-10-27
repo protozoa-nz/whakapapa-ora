@@ -1,5 +1,5 @@
 {
-  "name": "whakapapa-ora/site",
+  "name": "whakapapa-ora-site",
   "scripts": {
     "serve": "serve public",
     "deploy": "gh-pages -d public"
